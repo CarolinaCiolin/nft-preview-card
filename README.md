@@ -7,7 +7,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Link](#link)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -25,10 +25,9 @@ Users should be able to:
 
 ![](../nft-preview-card-component/src/images/screeshot-desktop.png)
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://carolinaciolin.github.io/nft-preview-card/)
 
 ### Built with
 
@@ -69,9 +68,6 @@ In this project, I used pseudo-elements for the first time. I applied them to ad
     margin-right: 5px;
 }
 ```
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 ## Author
 
