@@ -145,16 +145,16 @@ body a{
     color: var(--cyan);
 }
 
-bottom{
+fotter{
     text-align: center;
     font-size: 12px;
     color: var(--soft-blue);
 }
 
-bottom a{
+footer a{
     color: #fff;
 }
 
-bottom a:hover{
+footer a:hover{
     color: var(--cyan);
 }
