@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./nft-preview-card-component/src/images/screenshot-desktop.png)
+![](./src/images/screenshot-desktop.png)
 
 ### Link
 
